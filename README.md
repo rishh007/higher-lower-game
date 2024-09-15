@@ -38,6 +38,4 @@ A console-based guessing game implemented in Python, where players compare the f
 - Expand the dataset with more diverse entries.
 - Implement a high score feature to track top scores.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
